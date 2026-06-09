@@ -75,16 +75,6 @@ cd ../server
 npm install
 ```
 
-## Environment Variables
-
-Create a `.env` file inside the server folder:
-
-```env
-PORT=5002
-JWT_KEY=your_secret_key
-MONGOOSE_URL=your_database_url
-```
-
 ## Running the Application
 
 ### Start Backend
